@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "613655518498",
+    "project_id": "earn-cash-e22f4",
+    "storage_bucket": "earn-cash-e22f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613655518498:android:6e6152a670e969e2c7997b",
+        "android_client_info": {
+          "package_name": "com.earncash.makemoney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613655518498-de83nbjteosf2bo4n1smsuc778e7ek3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ-3W2HvpjeiyerfrkRIaYyUWc1zY-4w0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613655518498-de83nbjteosf2bo4n1smsuc778e7ek3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
